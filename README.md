@@ -27,7 +27,7 @@ A Script to Phish and Get Victim's Login Credentials.
 ### Installation on Kali Linux:
 Run script:
 ```
-$ git clone https://github.com/AlphaGeeky/PhishHack.git
+$ git clone https://github.com/BitWalls-ops/PhishHack.git
 $ cd PhishHack/
 $ python3 PhishHack.py
 ```
