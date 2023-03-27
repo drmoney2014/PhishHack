@@ -1,5 +1,5 @@
 # PhishHack v2.0
-### DM For Facebook and Instagram Bruteforce/Dictionary attack hacking script, Telegram: https://t.me/alphageeky
+### Email For Facebook and Instagram Bruteforce/Dictionary attack hacking script, darkhubgeek@gmail.com
 
 A Script to Phish and Get Victim's Login Credentials.
 ![PhishHack](https://github.com/cybergeeky/PhishHack/blob/main/PhishHack.png)
@@ -37,7 +37,7 @@ $ python3 PhishHack.py
 ```
 $ pip3 install -r requirements.txt
 ```
-### If you have questions or need any help, Message me here: [@alphageek](https://t.me/alphageeky) 
+### If you have questions or need any help, Email me here: darkhubgeek@gmail.com
 
 ## Legal disclaimer:
 
